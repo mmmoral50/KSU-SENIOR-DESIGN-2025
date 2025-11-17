@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/React-18-61dafb.svg)](https://reactjs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-000000.svg)](https://expressjs.com/)
 
-PlantGuard is a comprehensive IoT monitoring system designed for the **KSU Senior Project**, providing real-time environmental monitoring with ESP32 hardware, LoRa communication, and dual dashboards for optimal plant health management.
+PlantGuard is a comprehensive IoT monitoring system designed for our **Senior Project at Kennesaw State University**, providing real-time environmental monitoring with ESP32 hardware, LoRa communication, and dual dashboards for optimal plant health management.
 
 [PlantGuard Dashboard](https://farm-sensor-moralesmarlon50.replit.app)
 
