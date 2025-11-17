@@ -159,7 +159,7 @@ SLAVE Node                    MASTER Node                Dashboard
 │ Temperature ├──────────────>   Packet    ├──────────>   Data       │
 │ Moisture    │  915 MHz     │             │           │             │
 │ pH, NPK     │              │   Forward   │           │   Generate  │
-│ Light       │              │   to MQTT   │           │   Alerts    │
+│ EC          │              │   to MQTT   │           │   Alerts    │
 │             │              │             │           │             │
 │ Deep Sleep  │              │ WiFi/Cloud  │           │  Web UI     │
 └─────────────┘              └─────────────┘           └─────────────┘
@@ -176,7 +176,6 @@ SLAVE Node                    MASTER Node                Dashboard
   "phosphorus": 45,
   "potassium": 180,
   "ec": 850,
-  "light": 12000,
   "batteryVoltage": 4.05,
   "batteryPercent": 89
 }
